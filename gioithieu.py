@@ -1,0 +1,1 @@
+print("toi la hung hoc lop c4t-bo5")
